@@ -1,0 +1,9 @@
+**Results**:
+I trained the model using the next models 
+**K-Nearest Neighbors**: ROC AUC SCORE (0.50)
+**Support Vector Machines**: ROC AUC SCORE (0.50)
+**Neural Network Model**: ROC AUC SCORE (0.50)
+**Random Forest Model**: ROC AUC SCORE **(0.79)**
+**Random Forest Model Best Hyperparameters (Grid-Search)**: ROC AUC SCORE **(0.79)**
+
+Noticeably, the Random Forest Model was the most accurate, beyond this, using a hyperparameter optimization tool such as Grid Search improved marginally the results. 
